@@ -8,5 +8,3 @@ It has three recipes namely :
 2 Zucchini pasta
 
 3 Vegeterian lime orzo
-
-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
